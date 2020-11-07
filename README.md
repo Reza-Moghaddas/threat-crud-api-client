@@ -1,16 +1,20 @@
 # threat-crud-api-client
 This is a sample crud API + react front-end
 
-Need to install yarn before running the server
-$npm i yarn
+## Setup the server
+To run this project, install it locally using yarn:
 
-# To run the Server
-$yarn install
-$yarn run build
-$yarn run start
+```
+$ cd ../api
+$ yarn install
+$ yarn run build
+$ yarn run start
+```
+## Setup the client
+To run this project, install it locally using yarn:
 
-# To run the client 
-$yarn install
-$npm run start
-
-
+```
+$ cd ../client
+$ yarn install
+$ npm run build
+```
