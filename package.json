@@ -1,0 +1,22 @@
+{
+  "name": "threat-manager",
+  "version": "1.0.0",
+  "description": "SPA application using React and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reza-Moghaddas/vendor-crud-sample-medium-post.git"
+  },
+  "author": "Reza Moghaddas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reza-Moghaddas/vendor-crud-sample-medium-post/issues"
+  },
+  "homepage": "https://github.com/Reza-Moghaddas/vendor-crud-sample-medium-post#readme",
+  "devDependencies": {
+    "foreman": "^3.0.1"
+  }
+}
