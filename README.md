@@ -8,7 +8,7 @@ To run this project, install it locally using yarn:
 $ cd ../api
 $ yarn install
 $ yarn run build
-$ yarn run start
+$ yarn start
 ```
 ## Setup the client
 To run this project, install it locally using yarn:
