@@ -22,8 +22,8 @@ const LoginContent = styled.div`
 
 class LoginPage extends Component {
   state = {
-    email: 're.moghaddas@gmail.com',
-    password: 'Sa$12345678',
+    email: '',
+    password: '',
     isSignUp: false,
   }
 
