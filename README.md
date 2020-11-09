@@ -16,5 +16,5 @@ To run this project, install it locally using yarn:
 ```
 $ cd ../client
 $ yarn install
-$ npm run start
+$ yarn start
 ```
